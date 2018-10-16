@@ -1,24 +1,16 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+学习Udemy上的[【how-to-build-instagram-using-ruby-on-rails】](https://www.udemy.com/how-to-build-instagram-using-ruby-on-rails/) 项目。
 
-Things you may want to cover:
+* 版本
+  * Ruby 2.5.1
+  * Rails 5.2.1
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* 流程
+  * [x] Section1 ： Introduction
+  * [x] Section2 ： Basic Project
+  * [ ] Section3 ： Gravatar, Twitter Authentication, User Profile
+  * [ ] Section4 ： Post Feature
+  * [ ] Section5 ： Like, Comment and Bookmark Feature
+  * [ ] Section6 ： Search
+  * [ ] Section7 ： Miscellaneous
